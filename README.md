@@ -1,2 +1,2 @@
-# Machine-Learning
-This is to learn the codes for ML.
+# Supervised Learning
+This is the first type of learning in ML.
